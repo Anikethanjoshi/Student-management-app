@@ -106,7 +106,7 @@ Make sure the following software is installed:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-usernam/student-management-app.git
+git clone https://github.com/Anikethanjoshi/Student-management-app.git
 ```
 
 ---
